@@ -1,0 +1,7 @@
+{
+	"OutputFiles": [
+		"PCH.GamepadUMGPlugin.h.obj",
+		"Module.GamepadUMGPlugin.cpp.obj",
+		"Module.GamepadUMGPlugin.gen.cpp.obj"
+	]
+}
